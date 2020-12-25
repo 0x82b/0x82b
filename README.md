@@ -1,1 +1,1 @@
-<a href="https://www.pwnage.xyz"><img src="https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif">
+<a href="https://www.pwnage.xyz"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../t.svg">
